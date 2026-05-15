@@ -1,3 +1,4 @@
-import streamlit as st
-import numpy as np  # This line defines 'np'
-from sklearn.tree import DecisionTreeClassifier
+streamlit
+pandas
+scikit-learn
+numpy
